@@ -1,0 +1,225 @@
+Employee: Sophia Schaefer
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:8.00
+Shift: Afternoon
+Average Reservations:8.67
+Shift: Night
+Average Reservations:10.00
+
+Employee: Max Wagner
+Department: RECEPTION
+Shift: Morning
+Average Reservations:8.00
+Shift: Afternoon
+Average Reservations:7.33
+Shift: Night
+Average Reservations:6.00
+
+Employee: Emma Weber
+Department: RECEPTION
+Shift: Morning
+Average Reservations:12.00
+Shift: Afternoon
+Average Reservations:12.67
+Shift: Night
+Average Reservations:8.00
+
+Employee: Max Weber
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:9.00
+Shift: Afternoon
+Average Reservations:6.00
+Shift: Night
+Average Reservations:10.67
+
+Employee: Olivia Müller
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:15.00
+Shift: Afternoon
+Average Reservations:13.00
+Shift: Night
+Average Reservations:7.33
+
+Employee: Olivia Fischer
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:14.00
+Shift: Afternoon
+Average Reservations:11.67
+Shift: Night
+Average Reservations:8.33
+
+Employee: Liam Schaefer
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:14.00
+Shift: Afternoon
+Average Reservations:14.00
+Shift: Night
+Average Reservations:12.00
+
+Employee: Sophia Fischer
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:17.00
+Shift: Afternoon
+Average Reservations:13.67
+Shift: Night
+Average Reservations:8.67
+
+Employee: Olivia Meyer
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:20.00
+Shift: Afternoon
+Average Reservations:11.67
+Shift: Night
+Average Reservations:14.33
+
+Employee: Lucas Becker
+Department: RECEPTION
+Shift: Morning
+Average Reservations:4.00
+Shift: Afternoon
+Average Reservations:9.67
+Shift: Night
+Average Reservations:10.33
+
+Employee: Lucas Schaefer
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:17.00
+Shift: Afternoon
+Average Reservations:6.00
+Shift: Night
+Average Reservations:14.33
+
+Employee: Ava Wagner
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:5.00
+Shift: Afternoon
+Average Reservations:8.67
+Shift: Night
+Average Reservations:9.00
+
+Employee: Liam Schmidt
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:10.00
+Shift: Afternoon
+Average Reservations:4.33
+Shift: Night
+Average Reservations:6.67
+
+Employee: Olivia Hoffmann
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:10.00
+Shift: Afternoon
+Average Reservations:8.00
+Shift: Night
+Average Reservations:10.00
+
+Employee: Sophia Wagner
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:19.00
+Shift: Afternoon
+Average Reservations:11.33
+Shift: Night
+Average Reservations:14.67
+
+Employee: Ava Fischer
+Department: RECEPTION
+Shift: Morning
+Average Reservations:16.00
+Shift: Afternoon
+Average Reservations:10.33
+Shift: Night
+Average Reservations:10.33
+
+Employee: Liam Wagner
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:20.00
+Shift: Afternoon
+Average Reservations:17.67
+Shift: Night
+Average Reservations:16.00
+
+Employee: Mia Schulz
+Department: RECEPTION
+Shift: Morning
+Average Reservations:1.00
+Shift: Afternoon
+Average Reservations:13.67
+Shift: Night
+Average Reservations:14.33
+
+Employee: Ethan Schaefer
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:12.00
+Shift: Afternoon
+Average Reservations:9.67
+Shift: Night
+Average Reservations:1.33
+
+Employee: Noah Fischer
+Department: RECEPTION
+Shift: Morning
+Average Reservations:9.00
+Shift: Afternoon
+Average Reservations:9.67
+Shift: Night
+Average Reservations:7.67
+
+Employee: Alexander Hoffmann
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:9.00
+Shift: Afternoon
+Average Reservations:11.33
+Shift: Night
+Average Reservations:10.00
+
+Employee: Lucas Müller
+Department: HOUSEKEEPING
+Shift: Morning
+Average Reservations:13.00
+Shift: Afternoon
+Average Reservations:16.00
+Shift: Night
+Average Reservations:14.00
+
+Employee: Liam Weber
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:1.00
+Shift: Afternoon
+Average Reservations:9.33
+Shift: Night
+Average Reservations:14.67
+
+Employee: Mia Schmidt
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:8.00
+Shift: Afternoon
+Average Reservations:11.67
+Shift: Night
+Average Reservations:10.00
+
+Employee: Isabella Hoffmann
+Department: ADMINISTRATION
+Shift: Morning
+Average Reservations:20.00
+Shift: Afternoon
+Average Reservations:14.67
+Shift: Night
+Average Reservations:13.67
+
