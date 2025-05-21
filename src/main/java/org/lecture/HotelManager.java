@@ -184,7 +184,7 @@ public class HotelManager {
             reportLines.add("");
         }
 
-        Path pathUpdatedFile = Paths.get("src", "main", "resources", "example_examBakharevaHotel_report.txt");
+        Path pathUpdatedFile = Paths.get("src", "main", "resources", "example_examHotel_report.txt");
         HotelFileWriter writer = new HotelFileWriter();
         writer.writeEmployeeReport(pathUpdatedFile.toString(), reportLines);
     }
